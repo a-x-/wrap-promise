@@ -1,5 +1,5 @@
 {
-  "name": "wrap-promise",
+  "name": "promise-fn",
   "version": "1.0.0",
   "description": "Wrap function by promise",
   "main": "index.js",
