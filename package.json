@@ -2,7 +2,7 @@
   "name": "promise-fn",
   "version": "1.0.0",
   "description": "Wrap function by promise",
-  "main": "index.js",
+  "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
